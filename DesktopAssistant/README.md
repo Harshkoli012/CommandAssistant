@@ -5,6 +5,9 @@
 - Open Google
 - Open YouTube
 - Open Notepad
+- Open Setting
+- Shutdown
+- Cancel Shutdown
 - Search Google
 - Show Date and Time
 
@@ -14,4 +17,4 @@
 javac *.java
 
 ### Run
-java assistant.VoiceAssistantApp
+java assistant.AssistantApp
