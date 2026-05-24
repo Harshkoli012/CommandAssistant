@@ -1,5 +1,5 @@
 
-# Java Voice Assistant
+# Java Desktop Assistant
 
 ## Features
 - Open Google
