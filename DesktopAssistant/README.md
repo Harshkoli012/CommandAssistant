@@ -6,7 +6,7 @@
 - Open YouTube
 - Open Notepad
 - Open Setting
-- Shutdown
+- Shutdown System
 - Cancel Shutdown
 - Search Google
 - Show Date and Time
